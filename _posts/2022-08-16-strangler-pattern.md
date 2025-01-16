@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Strangler Pattern: Isolating Legacy Code"
-date:   2023-07-21 08:37:40 -0600
+date:   2022-08-16 08:37:40 -0600
 categories: devtalk
 ---
 
