@@ -1,0 +1,38 @@
+title: Tyson Lemire
+email: tlemire@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Specializing in systems design, bakend developement and technical leadership; with passion for creating environments where developers can thrive and be emporwered to deliver impactful solutions.
+baseurl: ""
+url: "bitspin.ca"
+github_username:  tysonlemire
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+
+
+# As a Staff Software Engineer with nearly two decades of experience, Tyson Lemire specializes in systems design, backend development, 
+# developer enablement and technical leadership. He has guided teams across startups and enterprises, focusing on engineering excellence 
+# and mentorship. Through his work pioneering staff engineering practices, he has helped create environments where developers can 
+# thrive and deliver impactful solutions.
+
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
