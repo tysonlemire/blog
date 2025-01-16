@@ -2,11 +2,11 @@ title: Tyson Lemire
 email: tlemire@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Specializing in systems design, backend developement and technical leadership; with a passion for creating environments where developers can thrive and be emporwered to deliver impactful solutions.
-baseurl: ""
-url: "bitspin.ca"
+baseurl: "/blog"
+url: "https://tysonlemire.github.io"
 github_username:  tysonlemire
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: minima
 plugins:
   - jekyll-feed
