@@ -9,9 +9,9 @@ url: "bitspin.ca"
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-  Specializing in systems design, backend developement and technical leadership; 
+  Specializing in systems design, backend development and technical leadership; 
   with a passion for creating environments where developers can thrive and be
-  emporwered to deliver impactful solutions.
+  empowered to deliver impactful solutions.
 
 # Build settings
 
