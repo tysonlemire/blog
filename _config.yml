@@ -59,6 +59,8 @@ minima:
   social_links:
   - { platform: github,  user_url: "https://github.com/tysonlemire" }
   - { platform: linkedin,  user_url: "https://www.linkedin.com/in/tysonlemire/" }
+  - { platform: bluesky, user_url: "https://bsky.app/profile/tysonlemire.bsky.social"}
+
   #  - { platform: devto,          user_url: "https://dev.to/jekyll" }
   #  - { platform: dribbble,       user_url: "https://dribbble.com/jekyll" }
   #  - { platform: facebook,       user_url: "https://www.facebook.com/jekyll" }
